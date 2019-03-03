@@ -1,5 +1,5 @@
 # Robot-Commands
-	In realizarea temei1 m-am bazat pe construirea acesteia pe baza
+In realizarea temei1 m-am bazat pe construirea acesteia pe baza
 ResizableArray-urilor si a DoublyLinkedList-urilor, in special in construirea
 stivelor(Stack.h) si a cozilor(Queue.h).
 
